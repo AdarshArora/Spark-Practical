@@ -1,2 +1,4 @@
 # Spark-Practical
-PySpark Hands on learning
+Spark Hands on learning
+  - Dataframe API
+  - Spark SQL
