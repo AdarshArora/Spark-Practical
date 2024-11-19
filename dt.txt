@@ -1,0 +1,6 @@
+00000000,06-26-2011,200,Exercise,GymnasticsPro,cash
+00000001,05-26-2011,300,Exercise,Weightlifting,credit
+00000002,06-01-2011,100,Exercise,GymnasticsPro,cash
+00000003,06-05-2011,100,Gymnastics,Rings,credit
+00000004,12-17-2011,300,Team Sports,Field,paytm
+00000005,02-14-2011,200,Gymnastics,,cash
