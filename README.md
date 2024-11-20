@@ -1,4 +1,4 @@
-# Spark-Practical - Youtube - Manish Kumar
+# Spark-Practical - Youtube Playlist
 Spark Hands on learning
   - Dataframe API
   - Spark SQL
